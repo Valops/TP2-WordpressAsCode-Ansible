@@ -1,7 +1,7 @@
 #PHP Confs
 php_modules: [ 'php', 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
  
-#MySQL Confs
+#MySQL Confs with demonstration credentials
 mysql_root_password: "Password"
 mysql_db: "wordpressdb"
 mysql_user: "wordpressuser"
